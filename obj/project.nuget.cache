@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lNh0H7Fu1yA=",
+  "success": true,
+  "projectFilePath": "D:\\study\\C#&.netCore\\TodoApi\\TodoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\andro\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
